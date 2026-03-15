@@ -1,3 +1,3 @@
-module github.com/bytectlgo/webrtcvad-go
+module github.com/itsbyte/webrtcvad-go
 
-go 1.25.1
+go 1.22
